@@ -18,3 +18,4 @@ it("By id", () => {
     cy.visit('https://next.privat24.ua/deposit')
     cy.get('tbody>:nth-child(1)>:nth-child(8)')
 })
+//
